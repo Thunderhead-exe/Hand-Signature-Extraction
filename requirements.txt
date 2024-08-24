@@ -1,0 +1,3 @@
+ultralytics==8.2.30
+ultralytics_thop==0.2.8
+dill==0.3.8
