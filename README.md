@@ -38,7 +38,7 @@ This project implements a fine-tuned YOLO v8 nano model for detecting and croppi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ASBK-exe/Hand-Signature-Extraction.git
+   git clone https://github.com/Thunderhead-exe/Hand-Signature-Extraction.git
    cd Hand-Signature-Extraction
    ```
 
